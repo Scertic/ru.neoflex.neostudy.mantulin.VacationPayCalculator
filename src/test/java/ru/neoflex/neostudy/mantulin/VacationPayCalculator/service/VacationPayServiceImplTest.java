@@ -8,7 +8,6 @@ import ru.neoflex.neostudy.mantulin.VacationPayCalculator.util.VacationPayCalcul
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
 class VacationPayServiceImplTest {
